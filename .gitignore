@@ -1,0 +1,36 @@
+
+# Jenkins
+.war/
+.war/*
+.war/**
+.war/**/*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+*.pyz
+*.pyw
+*.pyz/
+*.pyw/
+*.egg-info/
+dist/
+build/
+*.egg
+*.egg-info
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+*.pyz
+*.pyw
+*.pyz/
+*.pyw/
+*.pydevproject
+*.idea/
+*.vscode/
+
+# macOS specific files
+.DS_Store
